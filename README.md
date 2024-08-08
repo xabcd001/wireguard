@@ -23,12 +23,13 @@ Instructions
 
 	1. Clone the Repository
 		
-		git clone https://github.com/USERNAME/wireguard-setup.git
+		git clone https://github.com/xabcd001/wireguard-setup.git
 		cd wireguard-setup
+  
 	2. Run the Password-Protected Script
 		2.1 Download the Script:
 
-			curl -O https://raw.githubusercontent.com/USERNAME/wireguard-setup/main/setup_wireguard_protected.sh
+			curl -O https://raw.githubusercontent.com/xabcd001/wireguard-setup/main/setup_wireguard_protected.sh
 
 		2.2 Make the Script Executable:
 			
@@ -44,7 +45,7 @@ Instructions
 	3. Run the Non-Protected Script
 		3.1 Download the Script:
 			
-			curl -O https://raw.githubusercontent.com/USERNAME/wireguard-setup/main/setup_wireguard_non_protected.sh
+			curl -O https://raw.githubusercontent.com/xabcd001/wireguard-setup/main/setup_wireguard_non_protected.sh
 		
 		3.2 Make the Script Executable:
 
@@ -61,7 +62,7 @@ Instructions
 	4. Run the New User Script
 		4.1 Download the Script:
 
-			curl -O https://raw.githubusercontent.com/USERNAME/wireguard-setup/main/setup_new_user.sh
+			curl -O https://raw.githubusercontent.com/xabcd001/wireguard-setup/main/setup_new_user.sh
 
 		4.2 Make the Script Executable:
 
