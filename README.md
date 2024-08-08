@@ -42,7 +42,8 @@ Instructions
 		Follow the Prompts:
 				The script will ask for your server IP address and admin password.
 
-	3. Run the Non-Protected Script
+	3. Run the Non-Protected Script 
+ 		Not Working Properly ❌
 		3.1 Download the Script:
 			
 			curl -O https://raw.githubusercontent.com/xabcd001/wireguard-setup/main/setup_wireguard_non_protected.sh
