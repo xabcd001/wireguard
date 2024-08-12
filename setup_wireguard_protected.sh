@@ -23,7 +23,7 @@ exit_if_failed sudo usermod -aG docker $(whoami)
 echo "Starting the wg-easy container..."
 exit_if_failed docker run -d \
   --name=wg-easy \
-  -e LANG=de \
+  -e LANG=en \
   -e WG_HOST=${SERVER_IP} \
   -e PASSWORD=${ADMIN_PASSWORD} \
   -e PORT=51821 \
